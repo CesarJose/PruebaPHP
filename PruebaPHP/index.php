@@ -7,8 +7,10 @@
 <body>
 	<?php
 	print "Ya estamos ya<br>";
-	print "probando que funciona";
-	print "probamos que sigue funcionando";
+	print "probando que funciona<br>";
+	print "probamos que sigue funcionando<br>";
+	
+	print "Genial, seguimos imprimiendo.";
 
 	?>
 	
