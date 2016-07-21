@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php
-	print "Ya estamos ya";
+	print "Ya estamos ya<br>";print "probando que funciona";
 
 	?>
 	
